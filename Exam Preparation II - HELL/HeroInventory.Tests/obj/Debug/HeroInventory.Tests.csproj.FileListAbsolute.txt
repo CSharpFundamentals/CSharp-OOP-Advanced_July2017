@@ -1,0 +1,10 @@
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\HeroInventory.Tests.dll
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\HeroInventory.Tests.pdb
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\Hell.exe
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\Hell.pdb
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\Hell.exe.config
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\obj\Debug\HeroInventory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\obj\Debug\HeroInventory.Tests.dll
+C:\Users\DJBur\Desktop\Hell-Skeleton\HeroInventory.Tests\obj\Debug\HeroInventory.Tests.pdb

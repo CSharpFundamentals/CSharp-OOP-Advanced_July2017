@@ -1,0 +1,17 @@
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.exe
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.exe.config
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\obj\Debug\Hell.exe
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\obj\Debug\Hell.pdb
+D:\Projects\Exams\OOP-Advanced\Hell\Hell\bin\Debug\Hell.pdb
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.exe
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\obj\Debug\Hell.pdb
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.exe.config
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.exe
+C:\Users\KristiyanPamidov\Desktop\Hell\Hell\bin\Debug\Hell.pdb
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.exe.config
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.exe
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.pdb
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.exe
+C:\Users\DJBur\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.pdb
